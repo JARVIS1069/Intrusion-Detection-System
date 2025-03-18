@@ -20,14 +20,14 @@ This project implements an AI-Based Intrusion Detection System (IDS) using deep 
 1. Clone this repository:
    ```sh
    git clone https://github.com/JARVIS1069/Intrusion-Detection-System
-   cd AI-IDS
+   
   
 
 ## Usage
 1. Ensure the dataset files are placed in the appropriate directory.
 2. Run the Jupyter Notebook:
    ```sh
-   jupyter notebook IDS.ipynb
+   https://github.com/JARVIS1069/Intrusion-Detection-System/blob/main/IDS.ipynb
    ```
 3. Follow the steps in the notebook to preprocess data, train models, and evaluate performance.
 4. To test the trained model on new traffic data, run:
