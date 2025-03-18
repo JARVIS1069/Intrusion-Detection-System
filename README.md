@@ -62,5 +62,5 @@ Feel free to contribute by opening issues or submitting pull requests.
 This project is open-source and available under the MIT License.
 
 ## Contact
-For any queries, reach out to [your email] or visit my GitHub profile: [your GitHub profile link].
+For any queries, reach out to [arpeet1104@gmail.com] or visit my GitHub profile: [https://github.com/JARVIS1069].
 
