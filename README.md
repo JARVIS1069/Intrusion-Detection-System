@@ -19,7 +19,7 @@ This project implements an AI-Based Intrusion Detection System (IDS) using deep 
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/AI-IDS.git
+   git clone https://github.com/JARVIS1069/Intrusion-Detection-System
    cd AI-IDS
   
 
